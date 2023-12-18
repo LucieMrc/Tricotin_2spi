@@ -72,4 +72,3 @@ Inconvénients : plus long, moins facile.
 
 
 # Pour aller + loin
-# Tricotin_2spi
